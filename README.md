@@ -8,4 +8,5 @@ NIH Chest X-Ray multi-label dataset. Note it demonstrates common problem of dat
 
 <h2> Benefits: </h2>
 - Computer aided diagnosis
+
 - Assist radiologists and pathologists as they use medical imaging to diagnose a wide variety of heart and lung conditions.
