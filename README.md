@@ -7,7 +7,7 @@ Build Multi-Label classifier and improve training with synthetic images of disea
 NIH Chest X-Ray multi-label dataset. Note it demonstrates common problem of data imbalance. Link: https://www.kaggle.com/nih-chest-xrays/data and https://www.kaggle.com/nih-chest-xrays/sample
 <h2> Data Distribution </h2>
 <p align="center">
-  <img src="Images/Model Comparison.png">
+  <img src="Images/Data Distribution.png">
 </p>
 
 <h2> Benefits: </h2>
