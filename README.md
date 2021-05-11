@@ -39,9 +39,8 @@ NIH Chest X-Ray multi-label dataset. Note it demonstrates common problem of dat
 - No radiology or medical expertise.
 
 <h2>Future Work </h2>
-- 
+- Improve quality of GAN synthetic images. 
 - Provide more than the sample subset of data for classifier training.
 
-- Improve quality of GAN synthetic images.
 
 
