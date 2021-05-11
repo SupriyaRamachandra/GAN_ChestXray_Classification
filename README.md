@@ -30,3 +30,16 @@ NIH Chest X-Ray multi-label dataset. Note it demonstrates common problem of dat
 <p align="center">
   <img src="Images/DCGAN_images.png">
 </p>
+
+<h2> Limitations </h2>
+
+- Multi-label classifier training limited to sample dataset due to hardware limitations.
+- The image labels were NLP extracted, so few labels could be erroneous.
+- Keras ImageDatagenerator doesn't address imbalance.
+- No radiology or medical expertise.
+
+<h2>Future Work </h2>
+- Provide more than the sample subset of data for classifier training.
+- Improve quality of GAN synthetic images.
+
+
