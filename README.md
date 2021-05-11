@@ -16,3 +16,13 @@ NIH Chest X-Ray multi-label dataset. Note it demonstrates common problem of dat
 
 - Assist radiologists and pathologists as they use medical imaging to diagnose a wide variety of heart and lung conditions.
 
+<h2> Densenet169 (without Data Augmentation) </h2>
+<p align="center">
+  <img src="Images/Densenet169-1.png">
+</p>
+
+<h2> Keras:ImageDataGenerator (Data Augmentation) </h2>
+<p align="center">
+  <img src="Images/download_without ImageDataGen.png">
+</p>
+
