@@ -26,3 +26,7 @@ NIH Chest X-Ray multi-label dataset. Note it demonstrates common problem of dat
   <img src="Images/download_without ImageDataGen.png">
 </p>
 
+<h2> DCGAN (Data Augmentation) </h2>
+<p align="center">
+  <img src="Images/DCGAN_images.png">
+</p>
