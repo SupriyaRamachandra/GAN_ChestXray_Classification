@@ -44,5 +44,5 @@ NIH Chest X-Ray multi-label dataset. Note it demonstrates common problem of dat
 
 - Provide more than the sample subset of data for classifier training.
 
-
-
+<h2> Conclusion </h2>
+Multi-Label Classifier performed better on Augmented Images using Keras ImageDataGenerator
